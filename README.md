@@ -53,4 +53,4 @@ All content here is based on authorized lab environments, CTF platforms (TryHack
 
 ---
 
-📫 Reach out via [LinkedIn](https://www.linkedin.com/in/jubairbd) or check my [Medium](https://medium.com/@jubairbd) for full-length articles.
+📫 Reach out via [LinkedIn](https://www.linkedin.com/in/jubairbd) or check my [Medium](https://medium.com/@muhammadjubairsec) for full-length articles.
