@@ -2,7 +2,7 @@
 
 A collection of hands-on penetration testing notes, lab walkthroughs, and vulnerability writeups — documenting methodology, tools, and remediation across web, Active Directory, and infrastructure security.
 
-**Author:** [MD Jubair Hossain](https://www.linkedin.com/in/jubairbd) · Penetration Tester
+**Author:** [MD JUBAIR HOSSAIN](https://www.jubairsec.com) · `Penetration Tester`   
 **Portfolio:** [Medium](https://medium.com/@muhammadjubairsec) · [LinkedIn](https://www.linkedin.com/in/jubairbd)
 
 ---
