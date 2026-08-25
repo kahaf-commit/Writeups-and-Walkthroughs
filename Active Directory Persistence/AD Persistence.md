@@ -10,8 +10,8 @@
 
 [AD Persistence Using Sliver Ticket](AD%20Persistence/AD%20Persistence%20Using%20Sliver%20Ticket%203a8321d15a73809791caf9cee65e4109.md)
 
-[AD Persistence Using ADCS Certificate (Caution in Real-world)](AD%20Persistence/AD%20Persistence%20Using%20ADCS%20Certificate%20(Caution%20in%20%203a8321d15a7380e4b6d5d458b5963c05.md)
+[AD Persistence Using ADCS Certificate (Caution in Real-world)](AD%20Persistence/AD%20Persistence%20Using%20ADCS%20Certificate.md)
 
-[AD persistence: SID History Abuse (very stealthy approach) ](AD%20Persistence/AD%20persistence%20SID%20History%20Abuse%20(very%20stealthy%20ap%203a8321d15a738044a7ece7f9af50ba42.md)
+[AD persistence: SID History Abuse (very stealthy approach) ](AD%20Persistence/AD%20persistence%20SID%20History%20Abuse_Stealthy.md)
 
 [AD Persistence Through Group Membership](AD%20Persistence/AD%20Persistence%20Through%20Group%20Membership%203a8321d15a7380b6b96edb6750cc1cb4.md)
