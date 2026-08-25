@@ -27,6 +27,7 @@ A collection of hands-on penetration testing notes, lab walkthroughs, and vulner
 | Writeup | What it covers |
 |---|---|
 |[Adaptix C2 Framework](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Adaptix%20C2%20Framework/Adaptix%20C2.md)  | Building and configuring a C2 framework in an isolated lab, understanding listener/agent architecture relevant to red team infrastructure. |
+[Initial Access](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Initial%20Access/Initial%20Access.md) | Hands-on notes on gaining initial foothold in target environments — covering common entry vectors like exposed services, weak credentials, phishing simulation payloads, and public exploit adaptation, documented step-by-step from recon through first shell |
 
 <!--### 🧩 CTF & Guided Labs (TryHackMe / HackTheBox)
 | Writeup | What it covers |
