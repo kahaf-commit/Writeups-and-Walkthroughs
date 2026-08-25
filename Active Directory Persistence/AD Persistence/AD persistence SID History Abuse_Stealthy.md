@@ -28,7 +28,7 @@
 
 ![Screenshot From 2026-07-25 06-15-41.png](AD%20persistence%20SID%20History%20Abuse_Stealthy/Screenshot_From_2026-07-25_06-15-41.png)
 
-![Screenshot From 2026-07-25 06-16-49.png](AD%20persistence%20SID%20History%20Abuse%20(very%20stealthy%20ap/Screenshot_From_2026-07-25_06-16-49.png)
+![Screenshot From 2026-07-25 06-16-49.png](AD%20persistence%20SID%20History%20Abuse_Stealthy/Screenshot_From_2026-07-25_06-16-49.png)
 
 ![Screenshot From 2026-07-25 06-17-54.png](AD%20persistence%20SID%20History%20Abuse_Stealthy/Screenshot_From_2026-07-25_06-17-54.png)
 
