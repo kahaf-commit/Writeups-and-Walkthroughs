@@ -29,6 +29,21 @@ A collection of hands-on penetration testing notes, lab walkthroughs, and vulner
 |[Adaptix C2 Framework](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Adaptix%20C2%20Framework/Adaptix%20C2.md)  | Building and configuring a C2 framework in an isolated lab, understanding listener/agent architecture relevant to red team infrastructure. |
 [Initial Access](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Initial%20Access/Initial%20Access.md) | Hands-on notes on gaining initial foothold in target environments — covering common entry vectors like exposed services, weak credentials, phishing simulation payloads, and public exploit adaptation, documented step-by-step from recon through first shell |
 
+### Privilege Escalation
+| Writeup | What it covers |
+|---|---|
+| [Privilege Escalation](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/blob/main/Privilege%20Escalation/Privilege%20Escalation.md) | Hands-on notes on escalating privileges after initial access - covering misconfiguration abuse, kernel exploits, service/permission weaknesses, and credential harvesting, documented step-by-step from low-privilege foothold to full system/domain compromise. |
+
+### Reverse Engineering
+| Writeup | What it covers |
+|---|---|
+|[Reverse Engineering](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/Reverse%20Engineering)| Hands-on notes on reverse engineering binaries — covering static and dynamic analysis, disassembly, and identifying exploitable logic or vulnerabilities in compiled programs. |
+
+### IoT Hacking
+| Writeup | What it covers |
+|---|---|
+|[IoT Hacking](https://github.com/kahaf-commit/Writeups-and-Walkthroughs/tree/main/IoT%20Hacking)| Hands-on notes on IoT and embedded device security — covering firmware extraction and analysis, hardware interfacing, and identifying common vulnerabilities in connected devices. |
+
 <!--### 🧩 CTF & Guided Labs (TryHackMe / HackTheBox)
 | Writeup | What it covers |
 |---|---|
